@@ -414,53 +414,107 @@ function initProjectModals() {
    ========================================================================== */
 const galleryItems = [
   {
-    src: "assets/images/sanima_hydropower_site.jpg",
+    src: "assets/images/o.jpg",
     title: "Sanima Middle Tamor Hydropower Project (73 MW)",
-    category: "Industrial Hydro Facility",
-    desc: "Primary site infrastructure in Taplejung, Nepal where enterprise network, SCADA isolation, and 24/7 communications are actively maintained."
+    category: "AGM",
+    desc: ""
   },
   {
-    src: "assets/images/datacenter_network_rack.jpg",
-    title: "High-Density Core Server Rack & Cable Management",
-    category: "Structured Cabling",
-    desc: "Cisco managed switches, Cat6 patch panels, clean zip-tied vertical wire managers, and fiber optic transceivers inside the main server room."
+    src: "assets/images/kky.jpeg",
+    title: "Project Completion Certificate",
+    category: "",
+    desc: " "
   },
   {
-    src: "assets/images/cabling_fiber_splice.jpg",
-    title: "Single-Mode Fiber Optic Precision Splicing",
-    category: "Optical Network",
-    desc: "Fusion splicing 12-core armored fiber optic backbone linking the turbine hall control center with the switchyard."
+    src: "assets/images/m.jpg",
+    title: "",
+    category: "",
+    desc: ""
   },
   {
-    src: "assets/images/electronics_repair_station.jpg",
-    title: "Component-Level Diagnostic & Soldering Lab",
-    category: "Hardware Diagnostics",
-    desc: "Precision electronic testing bench for motherboards, multimeters, capacitor replacements, and component repairs."
+    src: "assets/images/v.jpg",
+    title: "",
+    category: "",
+    desc: ""
   },
   {
-    src: "assets/images/cctv_security_monitoring.jpg",
-    title: "Industrial Operations Surveillance Video Wall",
-    category: "Security & Monitoring",
-    desc: "Multi-screen surveillance matrix streaming 64+ HD IP camera feeds across the dam intake, spillway, and powerhouse perimeter."
+    src: "assets/images/q.jpg",
+    title: "",
+    category: "",
+    desc: ""
   },
   {
-    src: "assets/images/satellite_remote_telecom.jpg",
-    title: "High-Altitude Wireless Point-to-Point Mast",
-    category: "Telecom & Radio Bridges",
-    desc: "Parabolic dish antennas and wireless bridges spanning 4+ kilometers across mountain gorges to bring reliable broadband to remote construction adits."
+    src: "assets/images/p.jpg",
+    title: "",
+    category: "",
+    desc: ""
   },
   {
-    src: "assets/images/biometric_access_terminal.jpg",
-    title: "Biometric Time-Attendance & Magnetic Access Control",
-    category: "Access Security",
-    desc: "ZKTeco facial and fingerprint recognition door controller providing audited access control to the server room and central archives."
+    src: "assets/images/t.jpg",
+    title: "",
+    category: "",
+    desc: "."
   },
   {
-    src: "assets/images/kamal_lama_portrait.jpg",
-    title: "Kamal Lama - Field Technical Inspection",
-    category: "Personnel",
-    desc: "Senior IT Technician and Hardware & Networking Specialist with 16+ years of dedicated service."
-  }
+    src: "assets/images/d.jpg",
+    title: "",
+    category: "",
+    desc: " "
+  },
+  {
+    src: "assets/images/w.jpg",
+    title: "",
+    category: "",
+    desc: " "
+  },
+  {
+    src: "assets/images/x.jpg",
+    title: "",
+    category: "",
+    desc: " "
+  },
+  {
+    src: "assets/images/y.jpg",
+    title: "",
+    category: "",
+    desc: " "
+  },
+  {
+    src: "assets/images/kyy.jpeg",
+    title: "",
+    category: "",
+    desc: " "
+  },
+  {
+    src: "assets/images/aa.jpg",
+    title: "",
+    category: "",
+    desc: " "
+  },
+  {
+    src: "assets/images/lap1.JPG",
+    title: "",
+    category: "",
+    desc: " "
+  },
+  {
+    src: "assets/images/Midas.jpg",
+    title: "",
+    category: "",
+    desc: " "
+  },
+  {
+    src: "assets/images/sanima.jpg",
+    title: "",
+    category: "",
+    desc: " "
+  },
+  {
+    src: "assets/images/e.jpg",
+    title: "",
+    category: "",
+    desc: " "
+  },
 ];
 
 function initGalleryLightbox() {
