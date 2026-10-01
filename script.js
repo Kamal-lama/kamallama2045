@@ -510,6 +510,12 @@ const galleryItems = [
     desc: " "
   },
   {
+    src: "assets/images/ab.jpg",
+    title: "",
+    category: "",
+    desc: " "
+  },
+  {
     src: "assets/images/e.jpg",
     title: "",
     category: "",
