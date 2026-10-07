@@ -469,8 +469,8 @@ const galleryItems = [
   },
   {
     src: "assets/images/x.jpg",
-    title: "",
-    category: "",
+    title: "Kantipur Half Marathon 2026",
+    category: "Sanima Hydropower",
     desc: " "
   },
   {
@@ -513,6 +513,12 @@ const galleryItems = [
     src: "assets/images/ab.jpg",
     title: "",
     category: "",
+    desc: " "
+  },
+  {
+    src: "assets/images/NPHF.jpg",
+    title: "Antibiotics Program",
+    category: "Nepal Public Helth Foundation",
     desc: " "
   },
   {
