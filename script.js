@@ -504,7 +504,7 @@ const galleryItems = [
     desc: " "
   },
   {
-    src: "assets/images/sanima.jpg",
+    src: "assets/images/r.jpg",
     title: "",
     category: "",
     desc: " "
